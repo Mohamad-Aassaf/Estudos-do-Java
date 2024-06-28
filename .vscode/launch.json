@@ -1,0 +1,157 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "ExerciciosPOO.Main",
+            "projectName": "Estudos Java_ce6b277b"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Estudos Java_ce6b277b"
+        },
+        {
+            "type": "java",
+            "name": "algumaBosta",
+            "request": "launch",
+            "mainClass": "algumaBosta",
+            "projectName": "Estudos Java_ce6b277b"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio6",
+            "request": "launch",
+            "mainClass": "ExerciciosRevisão.Exercicio6",
+            "projectName": "Estudos Java_ce6b277b"
+        },
+        {
+            "type": "java",
+            "name": "BananaAsciiArt",
+            "request": "launch",
+            "mainClass": "BananaAsciiArt",
+            "projectName": "Estudos Java_ce6b277b"
+        },
+        {
+            "type": "java",
+            "name": "BananaDrawing",
+            "request": "launch",
+            "mainClass": "BananaDrawing",
+            "projectName": "Estudos Java_ce6b277b"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio5",
+            "request": "launch",
+            "mainClass": "ExerciciosRevisão.Exercicio5",
+            "projectName": "Estudos Java_ce6b277b"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio3",
+            "request": "launch",
+            "mainClass": "ExerciciosRevisão.Exercicio3",
+            "projectName": "Estudos Java_ce6b277b"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio4",
+            "request": "launch",
+            "mainClass": "ExerciciosRevisão.Exercicio4",
+            "projectName": "Estudos Java_ce6b277b"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio2",
+            "request": "launch",
+            "mainClass": "ExerciciosRevisão.Exercicio2",
+            "projectName": "Estudos Java_ce6b277b"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio1",
+            "request": "launch",
+            "mainClass": "ExerciciosRevisão.Exercicio1",
+            "projectName": "Estudos Java_ce6b277b"
+        },
+        {
+            "type": "java",
+            "name": "Questão2",
+            "request": "launch",
+            "mainClass": "FOR.Questão2",
+            "projectName": "Estudos Java_ce6b277b"
+        },
+        {
+            "type": "java",
+            "name": "Questão1",
+            "request": "launch",
+            "mainClass": "FOR.Questão1",
+            "projectName": "Estudos Java_ce6b277b"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio2",
+            "request": "launch",
+            "mainClass": "POO.POOEXERCICIOS.Exercicio2",
+            "projectName": "Estudos Java_ce6b277b"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio1",
+            "request": "launch",
+            "mainClass": "POO.POOEXERCICIOS.Exercicio1",
+            "projectName": "Estudos Java_ce6b277b"
+        },
+        {
+            "type": "java",
+            "name": "quiz",
+            "request": "launch",
+            "mainClass": "quiz",
+            "projectName": "Estudos Java_ce6b277b"
+        },
+        {
+            "type": "java",
+            "name": "Crashar",
+            "request": "launch",
+            "mainClass": "Crashar",
+            "projectName": "Estudos Java_ce6b277b"
+        },
+        {
+            "type": "java",
+            "name": "RoletaRussa",
+            "request": "launch",
+            "mainClass": "RoletaRussa",
+            "projectName": "Estudos Java_ce6b277b"
+        },
+        {
+            "type": "java",
+            "name": "RoletaRussa",
+            "request": "launch",
+            "mainClass": "RoletaRussa",
+            "projectName": "ESTUDOS~JAVA_55bcd8b9"
+        },
+        {
+            "type": "java",
+            "name": "meme",
+            "request": "launch",
+            "mainClass": "meme",
+            "projectName": "ESTUDOS~JAVA_55bcd8b9"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch Program",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}\\JAVA\\HTML\\script.js"
+        }
+    ]
+}
